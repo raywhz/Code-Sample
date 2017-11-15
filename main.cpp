@@ -1,7 +1,7 @@
 /**  
     code_sample
     main.cpp
-    Created by Haozhou Wu on 8/23/17.
+    Created by Haozhou Wu.
  
     A range filter and a median filter are created respectively.
     Both filters are tested in main function.
